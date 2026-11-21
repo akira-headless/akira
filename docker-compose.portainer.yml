@@ -1,0 +1,67 @@
+services:
+  akira:
+    image: akira-server:latest
+    container_name: akira
+    network_mode: host
+    environment:
+      - ASPNETCORE_HTTP_PORTS=8484
+      - Proxy__TrustedProxies__0=${TRUSTED_PROXY:-172.16.0.0/12}
+      - Arr__Instances__0__Key=radarr
+      - Arr__Instances__0__Name=Radarr
+      - Arr__Instances__0__Kind=Radarr
+      - Arr__Instances__0__Url=${RADARR_URL}
+      - Arr__Instances__0__ApiKey=${RADARR_API_KEY}
+      - Arr__Instances__0__PathMappings__0__From=${RADARR_ROOT:-/movies}
+      - Arr__Instances__0__PathMappings__0__To=/movies
+      - Arr__Instances__1__Key=sonarr
+      - Arr__Instances__1__Name=Sonarr
+      - Arr__Instances__1__Kind=Sonarr
+      - Arr__Instances__1__Url=${SONARR_URL}
+      - Arr__Instances__1__ApiKey=${SONARR_API_KEY}
+      - Arr__Instances__1__PathMappings__0__From=${SONARR_ROOT:-/tv}
+      - Arr__Instances__1__PathMappings__0__To=/tv
+      - Playback__Languages__Subtitles=${SUBTITLE_LANGUAGES:-}
+      - Playback__Languages__Audio=${AUDIO_LANGUAGES:-}
+      - Subtitles__OpenSubtitles__ApiKey=${OPENSUBTITLES_API_KEY:-}
+      - Subtitles__OpenSubtitles__Username=${OPENSUBTITLES_USERNAME:-}
+      - Subtitles__OpenSubtitles__Password=${OPENSUBTITLES_PASSWORD:-}
+      - Trakt__ClientId=${TRAKT_CLIENT_ID:-}
+      - Trakt__ClientSecret=${TRAKT_CLIENT_SECRET:-}
+      - Transcoding__HardwareAcceleration=${HARDWARE_ACCELERATION:-None}
+      - Transcoding__ToneMapping=${TONE_MAPPING:-Cpu}
+      - Transcoding__TempPath=/app/transcodes
+    devices:
+      - /dev/dri:/dev/dri
+    group_add:
+      - "${MEDIA_GID:-1000}"
+      - "${RENDER_GID:-993}"
+    volumes:
+      - akira_config:/app/config
+      - akira_transcodes:/app/transcodes
+      - ${MOVIES_PATH}:/movies
+      - ${TV_PATH}:/tv
+    restart: unless-stopped
+
+  akira-web:
+    image: akira-web:latest
+    container_name: akira-web
+    ports:
+      - "${WEB_PORT:-8090}:8080"
+    environment:
+      - AKIRA_URL=http://host.docker.internal:8484
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      - akira
+    restart: unless-stopped
+
+  akira-guide:
+    image: akira-guide:latest
+    container_name: akira-guide
+    ports:
+      - "${GUIDE_PORT:-8091}:8080"
+    restart: unless-stopped
+
+volumes:
+  akira_config:
+  akira_transcodes:

@@ -1,0 +1,14 @@
+{
+    "name": "akira.guide",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vitepress dev",
+        "build": "vitepress build",
+        "preview": "vitepress preview"
+    },
+    "devDependencies": {
+        "vitepress": "^v2.0.0-alpha.18"
+    }
+}

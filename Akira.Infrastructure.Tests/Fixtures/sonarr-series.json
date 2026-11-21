@@ -1,0 +1,123 @@
+[
+  {
+    "title": "The Devil Is a Part-Timer!",
+    "sortTitle": "devil is a parttimer",
+    "status": "ended",
+    "ended": true,
+    "overview": "In another dimension, the Devil King Sadao is only one step away from conquering the world when he is beaten by Hero Emilia and forced to drift to the other world: modern-day Tokyo. As \"conquering the world\" are the only skills the Devil King possesses - and are obviously unnecessary in his new situation - he must work as a freeter to pay for his living expenses.",
+    "previousAiring": "2023-09-28T14:30:00Z",
+    "network": "Tokyo MX",
+    "airTime": "23:30",
+    "images": [
+      {
+        "coverType": "banner",
+        "url": "/MediaCover/6/banner.jpg?lastWrite=639144346973431614",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/267441/banners/6185e2942455e.jpg"
+      },
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/6/poster.jpg?lastWrite=639144346973631623",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/267441/posters/60ba84b8c2037.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/6/fanart.jpg?lastWrite=639144346974031641",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/267441-8.jpg"
+      },
+      {
+        "coverType": "clearlogo",
+        "url": "/MediaCover/6/clearlogo.png?lastWrite=639144346974231649",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/267441/clearlogo/611c332bbaab7.png"
+      }
+    ],
+    "originalLanguage": {
+      "id": 8,
+      "name": "Japanese"
+    },
+    "seasons": [
+      {
+        "seasonNumber": 0,
+        "monitored": false,
+        "statistics": {
+          "episodeFileCount": 0,
+          "episodeCount": 0,
+          "totalEpisodeCount": 27,
+          "sizeOnDisk": 0,
+          "releaseGroups": [],
+          "percentOfEpisodes": 0
+        }
+      },
+      {
+        "seasonNumber": 1,
+        "monitored": true,
+        "statistics": {
+          "previousAiring": "2013-06-27T14:30:00Z",
+          "episodeFileCount": 0,
+          "episodeCount": 13,
+          "totalEpisodeCount": 13,
+          "sizeOnDisk": 0,
+          "releaseGroups": [],
+          "percentOfEpisodes": 0
+        }
+      },
+      {
+        "seasonNumber": 2,
+        "monitored": true,
+        "statistics": {
+          "previousAiring": "2023-09-28T14:30:00Z",
+          "episodeFileCount": 3,
+          "episodeCount": 24,
+          "totalEpisodeCount": 24,
+          "sizeOnDisk": 41182887,
+          "releaseGroups": [
+            "SubsPlease"
+          ],
+          "percentOfEpisodes": 12.5
+        }
+      }
+    ],
+    "year": 2013,
+    "path": "/anime/The Devil Is a Part-Timer",
+    "qualityProfileId": 1,
+    "seasonFolder": true,
+    "monitored": true,
+    "monitorNewItems": "all",
+    "useSceneNumbering": true,
+    "runtime": 24,
+    "tvdbId": 267441,
+    "tvRageId": 44376,
+    "tvMazeId": 6306,
+    "tmdbId": 45997,
+    "firstAired": "2013-04-04T00:00:00Z",
+    "lastAired": "2023-09-28T00:00:00Z",
+    "seriesType": "standard",
+    "cleanTitle": "thedevilisparttimer",
+    "imdbId": "tt2622982",
+    "titleSlug": "the-devil-is-a-part-timer",
+    "rootFolderPath": "/anime",
+    "certification": "TV-14",
+    "ratings": { "votes": 412, "value": 7.6 },
+    "genres": [
+      "Action",
+      "Animation",
+      "Anime",
+      "Comedy",
+      "Fantasy"
+    ],
+    "tags": [],
+    "added": "2026-05-15T09:38:13Z",
+    "statistics": {
+      "seasonCount": 2,
+      "episodeFileCount": 3,
+      "episodeCount": 37,
+      "totalEpisodeCount": 64,
+      "sizeOnDisk": 41182887,
+      "releaseGroups": [
+        "SubsPlease"
+      ],
+      "percentOfEpisodes": 8.108108108108109
+    },
+    "languageProfileId": 1,
+    "id": 6
+  }
+]

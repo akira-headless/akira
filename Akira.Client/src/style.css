@@ -1,0 +1,62 @@
+@import 'tailwindcss';
+
+@theme {
+    --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    --color-ink-950: #0d1014;
+    --color-ink-900: #13171d;
+    --color-ink-800: #1b2129;
+    --color-ink-700: #262e38;
+    --color-ink-600: #36404c;
+    --color-ink-400: #8a96a3;
+    --color-ink-200: #c9d1da;
+    --color-accent-500: #3d8bf7;
+    --color-accent-400: #63a2f9;
+}
+
+@layer base {
+    html {
+        color-scheme: dark;
+    }
+
+    body {
+        @apply bg-ink-950 text-ink-200 antialiased;
+    }
+}
+
+@layer components {
+    .panel {
+        @apply rounded-lg border border-ink-700 bg-ink-900;
+    }
+
+    .button {
+        @apply inline-flex items-center justify-center gap-2 rounded-md bg-accent-500 px-3 py-1.5 text-sm font-medium text-white hover:bg-accent-400 disabled:cursor-not-allowed disabled:opacity-50;
+    }
+
+    .button-quiet {
+        @apply inline-flex items-center justify-center gap-2 rounded-md border border-ink-600 px-3 py-1.5 text-sm text-ink-200 hover:bg-ink-800 disabled:cursor-not-allowed disabled:opacity-50;
+    }
+
+    .button-danger {
+        @apply inline-flex items-center justify-center gap-2 rounded-md border border-red-900 px-3 py-1.5 text-sm text-red-300 hover:bg-red-950 disabled:opacity-50;
+    }
+
+    .input {
+        @apply w-full rounded-md border border-ink-600 bg-ink-950 px-3 py-1.5 text-sm text-ink-200 placeholder:text-ink-400 focus:border-accent-500 focus:outline-none;
+    }
+
+    .label {
+        @apply mb-1 block text-xs font-medium tracking-wide text-ink-400 uppercase;
+    }
+
+    .table {
+        @apply w-full text-left text-sm;
+    }
+
+    .table th {
+        @apply border-b border-ink-700 px-4 py-2 text-xs font-medium tracking-wide text-ink-400 uppercase;
+    }
+
+    .table td {
+        @apply border-b border-ink-800 px-4 py-2.5 align-middle;
+    }
+}

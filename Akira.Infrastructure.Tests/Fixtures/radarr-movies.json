@@ -1,0 +1,215 @@
+[
+  {
+    "title": "28 Days Later",
+    "originalTitle": "28 Days Later",
+    "originalLanguage": {
+      "id": 1,
+      "name": "English"
+    },
+    "secondaryYearSourceId": 0,
+    "sortTitle": "28 days later",
+    "sizeOnDisk": 1665482211,
+    "status": "released",
+    "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+    "inCinemas": "2002-10-31T00:00:00Z",
+    "physicalRelease": "2003-05-19T00:00:00Z",
+    "digitalRelease": "2008-02-23T00:00:00Z",
+    "releaseDate": "2003-05-19T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/1/poster.jpg?lastWrite=639221538113720912",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/sQckQRt17VaWbo39GIu0TMOiszq.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/1/fanart.jpg?lastWrite=639221538115320980",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/aJFwk1clMal1prxAvKAgHxKPAf.jpg"
+      }
+    ],
+    "website": "https://www.sonypictures.com/movies/28dayslater",
+    "year": 2002,
+    "youTubeTrailerId": "mWEhfF27O0c",
+    "ratings": {
+      "imdb": { "votes": 461000, "value": 7.5, "type": "user" },
+      "tmdb": { "votes": 7600, "value": 7.2, "type": "user" },
+      "metacritic": { "votes": 0, "value": 73, "type": "user" }
+    },
+    "studio": "DNA Films",
+    "path": "/movies/28 Days Later (2002)",
+    "qualityProfileId": 1,
+    "hasFile": true,
+    "movieFileId": 2,
+    "monitored": true,
+    "minimumAvailability": "released",
+    "isAvailable": true,
+    "folderName": "/movies/28 Days Later (2002)",
+    "runtime": 113,
+    "cleanTitle": "28dayslater",
+    "imdbId": "tt0289043",
+    "tmdbId": 170,
+    "titleSlug": "170",
+    "rootFolderPath": "/movies",
+    "certification": "R",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "tags": [],
+    "added": "2026-05-15T09:37:17Z",
+    "movieFile": {
+      "movieId": 1,
+      "relativePath": "28 Days Later 2002 Bluray-1080p.mp4",
+      "path": "/movies/28 Days Later (2002)/28 Days Later 2002 Bluray-1080p.mp4",
+      "size": 1665482211,
+      "dateAdded": "2026-05-15T09:37:17Z",
+      "edition": "",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "indexerFlags": 0,
+      "mediaInfo": {
+        "audioBitrate": 384000,
+        "audioChannels": 5.1,
+        "audioCodec": "AAC",
+        "audioLanguages": "und",
+        "audioStreamCount": 1,
+        "videoBitDepth": 8,
+        "videoBitrate": 2250371,
+        "videoCodec": "x264",
+        "videoFps": 23.976,
+        "videoDynamicRange": "",
+        "videoDynamicRangeType": "",
+        "resolution": "1920x1080",
+        "runTime": "1:24:07",
+        "scanType": "Progressive",
+        "subtitles": ""
+      },
+      "qualityCutoffNotMet": false,
+      "id": 2
+    },
+    "id": 1
+  },
+  {
+    "title": "28 Weeks Later",
+    "originalTitle": "28 Weeks Later",
+    "originalLanguage": {
+      "id": 1,
+      "name": "English"
+    },
+    "secondaryYearSourceId": 0,
+    "sortTitle": "28 weeks later",
+    "sizeOnDisk": 1941728889,
+    "status": "released",
+    "overview": "Twenty-eight weeks after the spread of a deadly rage virus, the inhabitants of the British Isles have lost their battle against the onslaught, as the virus has killed everyone there. Six months later, a group of Americans dare to set foot on the Isles, convinced the danger has passed. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.",
+    "inCinemas": "2007-04-26T00:00:00Z",
+    "physicalRelease": "2007-10-09T00:00:00Z",
+    "digitalRelease": "2007-08-30T00:00:00Z",
+    "releaseDate": "2007-08-30T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/2/poster.jpg?lastWrite=639282812539506468",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/2/fanart.jpg?lastWrite=639282812541185653",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/83ownpZPvBHJD5UVNShzQfa3LaW.jpg"
+      }
+    ],
+    "website": "",
+    "year": 2007,
+    "youTubeTrailerId": "gPOt4mAEfBE",
+    "studio": "DNA Films",
+    "path": "/movies/28 Weeks Later (2007)",
+    "qualityProfileId": 1,
+    "hasFile": true,
+    "movieFileId": 1,
+    "monitored": true,
+    "minimumAvailability": "released",
+    "isAvailable": true,
+    "folderName": "/movies/28 Weeks Later (2007)",
+    "runtime": 99,
+    "cleanTitle": "28weekslater",
+    "imdbId": "tt0463854",
+    "tmdbId": 1562,
+    "titleSlug": "1562",
+    "rootFolderPath": "/movies",
+    "certification": "R",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "tags": [],
+    "added": "2026-05-15T09:37:17Z",
+    "movieFile": {
+      "movieId": 2,
+      "relativePath": "28 Weeks Later 2007 Bluray-1080p.mkv",
+      "path": "/movies/28 Weeks Later (2007)/28 Weeks Later 2007 Bluray-1080p.mkv",
+      "size": 1941728889,
+      "dateAdded": "2026-05-15T09:37:17Z",
+      "edition": "",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "indexerFlags": 0,
+      "mediaInfo": {
+        "audioBitrate": 0,
+        "audioChannels": 7.1,
+        "audioCodec": "AAC",
+        "audioLanguages": "eng",
+        "audioStreamCount": 1,
+        "videoBitDepth": 10,
+        "videoBitrate": 0,
+        "videoCodec": "h265",
+        "videoFps": 23.976,
+        "videoDynamicRange": "",
+        "videoDynamicRangeType": "",
+        "resolution": "1920x800",
+        "runTime": "1:30:14",
+        "scanType": "Progressive",
+        "subtitles": "eng/eng"
+      },
+      "qualityCutoffNotMet": false,
+      "id": 1
+    },
+    "id": 2
+  }
+]

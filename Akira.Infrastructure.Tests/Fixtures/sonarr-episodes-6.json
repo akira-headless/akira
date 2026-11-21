@@ -1,0 +1,1529 @@
+[
+  {
+    "seriesId": 6,
+    "tvdbId": 9429382,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 1,
+    "title": "Episode 1 Prologue",
+    "airDate": "2022-07-14",
+    "airDateUtc": "2022-07-14T14:30:00Z",
+    "runtime": 24,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9429382/screencap/635ee2dbaf55e.jpg"
+      }
+    ],
+    "id": 216
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9723607,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 2,
+    "title": "The Ente Isla Language: With Jamie Marchi",
+    "airDate": "2014-07-22",
+    "airDateUtc": "2014-07-22T14:30:00Z",
+    "runtime": 14,
+    "overview": "DVD/BD special feature included in Funimation releases.\r\n\r\nThe lead writer for the English language version discusses how the Enta Isla language was adapted from the original Japanese language version.",
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [],
+    "id": 217
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9885586,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 3,
+    "title": "Recap Special From Sasazuka to Ente Isla!",
+    "airDate": "2023-07-06",
+    "airDateUtc": "2023-07-06T14:30:00Z",
+    "runtime": 24,
+    "finaleType": "season",
+    "overview": "In this special episode, the voice of Chiho Sasaki gives us a quick refresher on our story so far.",
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [],
+    "id": 218
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550415,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 4,
+    "title": "TBA",
+    "airDate": "2022-07-17",
+    "airDateUtc": "2022-07-17T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550415/screencap/696191906a25d.jpg"
+      }
+    ],
+    "id": 219
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550416,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 5,
+    "title": "TBA",
+    "airDate": "2022-07-24",
+    "airDateUtc": "2022-07-24T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550416/screencap/696191bb7a34d.jpg"
+      }
+    ],
+    "id": 220
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550417,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 6,
+    "title": "TBA",
+    "airDate": "2022-07-31",
+    "airDateUtc": "2022-07-31T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550417/screencap/696191e1890b6.jpg"
+      }
+    ],
+    "id": 221
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550418,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 7,
+    "title": "TBA",
+    "airDate": "2022-08-07",
+    "airDateUtc": "2022-08-07T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550418/screencap/6961920a69580.jpg"
+      }
+    ],
+    "id": 222
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550419,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 8,
+    "title": "TBA",
+    "airDate": "2022-08-14",
+    "airDateUtc": "2022-08-14T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550419/screencap/69619233b4e7c.jpg"
+      }
+    ],
+    "id": 223
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550420,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 9,
+    "title": "TBA",
+    "airDate": "2022-08-21",
+    "airDateUtc": "2022-08-21T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550420/screencap/696192562da1e.jpg"
+      }
+    ],
+    "id": 224
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550421,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 10,
+    "title": "TBA",
+    "airDate": "2022-08-28",
+    "airDateUtc": "2022-08-28T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550421/screencap/6961927e8187f.jpg"
+      }
+    ],
+    "id": 225
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550422,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 11,
+    "title": "TBA",
+    "airDate": "2022-09-04",
+    "airDateUtc": "2022-09-04T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550422/screencap/696192a2e129d.jpg"
+      }
+    ],
+    "id": 226
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550423,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 12,
+    "title": "TBA",
+    "airDate": "2022-09-11",
+    "airDateUtc": "2022-09-11T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550423/screencap/696192c51503b.jpg"
+      }
+    ],
+    "id": 227
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550424,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 13,
+    "title": "TBA",
+    "airDate": "2022-09-18",
+    "airDateUtc": "2022-09-18T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550424/screencap/696192e1f010a.jpg"
+      }
+    ],
+    "id": 228
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550425,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 14,
+    "title": "TBA",
+    "airDate": "2022-09-25",
+    "airDateUtc": "2022-09-25T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550425/screencap/6961930f796c2.jpg"
+      }
+    ],
+    "id": 229
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550426,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 15,
+    "title": "TBA",
+    "airDate": "2022-10-02",
+    "airDateUtc": "2022-10-02T14:30:00Z",
+    "runtime": 1,
+    "finaleType": "midseason",
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550426/screencap/6961933772d8d.jpg"
+      }
+    ],
+    "id": 230
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550427,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 16,
+    "title": "TBA",
+    "airDate": "2023-07-16",
+    "airDateUtc": "2023-07-16T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550427/screencap/696193595270a.jpg"
+      }
+    ],
+    "id": 231
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550428,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 17,
+    "title": "TBA",
+    "airDate": "2023-07-23",
+    "airDateUtc": "2023-07-23T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550428/screencap/6961937b5027a.jpg"
+      }
+    ],
+    "id": 232
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550429,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 18,
+    "title": "TBA",
+    "airDate": "2023-07-30",
+    "airDateUtc": "2023-07-30T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550429/screencap/6961939af3064.jpg"
+      }
+    ],
+    "id": 233
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550430,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 19,
+    "title": "TBA",
+    "airDate": "2023-08-06",
+    "airDateUtc": "2023-08-06T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550430/screencap/696193bacad06.jpg"
+      }
+    ],
+    "id": 234
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550431,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 20,
+    "title": "TBA",
+    "airDate": "2023-08-13",
+    "airDateUtc": "2023-08-13T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550431/screencap/696193de0fc02.jpg"
+      }
+    ],
+    "id": 235
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550432,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 21,
+    "title": "TBA",
+    "airDate": "2023-08-20",
+    "airDateUtc": "2023-08-20T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550432/screencap/69619405ed468.jpg"
+      }
+    ],
+    "id": 236
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550433,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 22,
+    "title": "TBA",
+    "airDate": "2023-08-27",
+    "airDateUtc": "2023-08-27T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550433/screencap/6961942c16ee3.jpg"
+      }
+    ],
+    "id": 237
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550434,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 23,
+    "title": "TBA",
+    "airDate": "2023-09-03",
+    "airDateUtc": "2023-09-03T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550434/screencap/6961945949372.jpg"
+      }
+    ],
+    "id": 238
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550435,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 24,
+    "title": "TBA",
+    "airDate": "2023-09-10",
+    "airDateUtc": "2023-09-10T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550435/screencap/6961947244b95.jpg"
+      }
+    ],
+    "id": 239
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550436,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 25,
+    "title": "TBA",
+    "airDate": "2023-09-17",
+    "airDateUtc": "2023-09-17T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550436/screencap/6961948ce55b6.jpg"
+      }
+    ],
+    "id": 240
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550437,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 26,
+    "title": "TBA",
+    "airDate": "2023-09-24",
+    "airDateUtc": "2023-09-24T14:30:00Z",
+    "runtime": 1,
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550437/screencap/696194ad2f494.jpg"
+      }
+    ],
+    "id": 241
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 11550438,
+    "episodeFileId": 0,
+    "seasonNumber": 0,
+    "episodeNumber": 27,
+    "title": "TBA",
+    "airDate": "2023-10-01",
+    "airDateUtc": "2023-10-01T14:30:00Z",
+    "runtime": 1,
+    "finaleType": "season",
+    "hasFile": false,
+    "monitored": false,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/11550438/screencap/696194c929a5f.jpg"
+      }
+    ],
+    "id": 242
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4516068,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 1,
+    "title": "The Devil Arrives in Sasazuka",
+    "airDate": "2013-04-04",
+    "airDateUtc": "2013-04-04T14:30:00Z",
+    "runtime": 24,
+    "overview": "When the lord of demons and his horde waged war against the humans in their realm, a hero vanquished their army. Cornered, the Devil fled through an interdimensional portal to Earth. He vows to one day reign again, but until then... he needs a job!",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 1,
+    "sceneAbsoluteEpisodeNumber": 1,
+    "sceneEpisodeNumber": 1,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4516068.jpg"
+      }
+    ],
+    "id": 243
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523076,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 2,
+    "title": "The Hero Stays at the Devil's Castle for Work Reasons",
+    "airDate": "2013-04-11",
+    "airDateUtc": "2013-04-11T14:30:00Z",
+    "runtime": 24,
+    "overview": "When Emilia the hero finally tracks down the ruler of demons here on Earth, he's not exactly what she was expecting. Which may or may not make her a little crazy.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 2,
+    "sceneAbsoluteEpisodeNumber": 2,
+    "sceneEpisodeNumber": 2,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523076.jpg"
+      }
+    ],
+    "id": 244
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523077,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 3,
+    "title": "The Devil Goes on a Date With His Junior in Shinjuku",
+    "airDate": "2013-04-18",
+    "airDateUtc": "2013-04-18T14:30:00Z",
+    "runtime": 24,
+    "overview": "Something supernatural seems to be going on with Chiho. Meanwhile, it's possible Maou doesn't really understand the concept of a \"date\"... but it's not long before everyone has much bigger problems on their hands.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 3,
+    "sceneAbsoluteEpisodeNumber": 3,
+    "sceneEpisodeNumber": 3,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523077.jpg"
+      }
+    ],
+    "id": 245
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523078,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 4,
+    "title": "The Hero Experiences Human Warmth",
+    "airDate": "2013-04-25",
+    "airDateUtc": "2013-04-25T14:30:00Z",
+    "runtime": 24,
+    "overview": "In the aftermath of the cave-in, Emi sees a side of Maou that doesn't jibe with the demonic king she knew in Ente Isla. Meanwhile, everyone sees a side of the landlady that nobody could have expected...",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 4,
+    "sceneAbsoluteEpisodeNumber": 4,
+    "sceneEpisodeNumber": 4,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523078.jpg"
+      }
+    ],
+    "id": 246
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523079,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 5,
+    "title": "The Devil and the Hero Save Sasazuka",
+    "airDate": "2013-05-02",
+    "airDateUtc": "2013-05-02T14:30:00Z",
+    "runtime": 24,
+    "overview": "Lucifer is wrecking the neighborhood in a big way, and he's brought along some unexpected friends! To save both themselves and their new Earthly home, can Emi, Maou, and Ashiya do the impossible and... work together?!",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 5,
+    "sceneAbsoluteEpisodeNumber": 5,
+    "sceneEpisodeNumber": 5,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523079.jpg"
+      }
+    ],
+    "id": 247
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523080,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 6,
+    "title": "The Devil Climbs the Stairway to School",
+    "airDate": "2013-05-09",
+    "airDateUtc": "2013-05-09T14:30:00Z",
+    "runtime": 24,
+    "overview": "Back in Ente Isla, the other high priests find out about Olba's betrayal. Meanwhile, Lucifer's moved into the Devil's Castle and gotten Maou and Ashiya into school ghost stories.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 6,
+    "sceneAbsoluteEpisodeNumber": 6,
+    "sceneEpisodeNumber": 6,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523080.jpg"
+      }
+    ],
+    "id": 248
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523081,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 7,
+    "title": "The Devil's Budget Is Saved by Neighborliness",
+    "airDate": "2013-05-16",
+    "airDateUtc": "2013-05-16T14:30:00Z",
+    "runtime": 24,
+    "overview": "Maou and company find that a young lady named Suzuno has moved in next door. She is quick to make friends and starts helping them out, which causes Emi to wonder what her motives are.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 7,
+    "sceneAbsoluteEpisodeNumber": 7,
+    "sceneEpisodeNumber": 7,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523081.jpg"
+      }
+    ],
+    "id": 249
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523082,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 8,
+    "title": "The Hero Enters the Fray",
+    "airDate": "2013-05-23",
+    "airDateUtc": "2013-05-23T14:30:00Z",
+    "runtime": 24,
+    "overview": "Emi and Suzuno have some truly epic miscommunications, but when they finally get those straightened out, they're even less on the same page than before. Meanwhile, Maou's got bigger (?) problems: there's a new fast-food restaurant in town!",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 8,
+    "sceneAbsoluteEpisodeNumber": 8,
+    "sceneEpisodeNumber": 8,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523082.jpg"
+      }
+    ],
+    "id": 250
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523083,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 9,
+    "title": "The Hero Experiences a Fray",
+    "airDate": "2013-05-30",
+    "airDateUtc": "2013-05-30T14:30:00Z",
+    "runtime": 24,
+    "overview": "Insisting that Emi and Suzuno need an impartial third party to resolve their dispute, Rika goes with them to meet Maou. Meanwhile, Maou tries to handle the loss of business caused by the opening of a new restaurant.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 9,
+    "sceneAbsoluteEpisodeNumber": 9,
+    "sceneEpisodeNumber": 9,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523083.jpg"
+      }
+    ],
+    "id": 251
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523084,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 10,
+    "title": "The Devil and the Hero Take a Break From the Daily Routine",
+    "airDate": "2013-06-06",
+    "airDateUtc": "2013-06-06T14:30:00Z",
+    "runtime": 24,
+    "overview": "It's a busy day at the local amusement park, with crowded restaurants, animals on the loose, scary ghosts, and a much-needed swimwear intervention.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 10,
+    "sceneAbsoluteEpisodeNumber": 10,
+    "sceneEpisodeNumber": 10,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523084.jpg"
+      }
+    ],
+    "id": 252
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523085,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 11,
+    "title": "The Hero Stays True to Her Convictions",
+    "airDate": "2013-06-13",
+    "airDateUtc": "2013-06-13T14:30:00Z",
+    "runtime": 24,
+    "overview": "The stranger Suzuno met at the train station has her reconsidering her position on the Devil. Emi, however, is unwavering.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 11,
+    "sceneAbsoluteEpisodeNumber": 11,
+    "sceneEpisodeNumber": 11,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523085.jpg"
+      }
+    ],
+    "id": 253
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4523086,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 12,
+    "title": "The Devil Carries Out His Duties",
+    "airDate": "2013-06-20",
+    "airDateUtc": "2013-06-20T14:30:00Z",
+    "runtime": 24,
+    "overview": "The archangel Sariel is willing to torture people to get what he wants, and he's confident that no one can stop him--but he didn't realize quite how seriously Maou takes his responsibilities.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 12,
+    "sceneAbsoluteEpisodeNumber": 12,
+    "sceneEpisodeNumber": 12,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4523086.jpg"
+      }
+    ],
+    "id": 254
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 4587075,
+    "episodeFileId": 0,
+    "seasonNumber": 1,
+    "episodeNumber": 13,
+    "title": "The Devil and the Hero Do Some Honest Hard Work",
+    "airDate": "2013-06-27",
+    "airDateUtc": "2013-06-27T14:30:00Z",
+    "runtime": 24,
+    "finaleType": "season",
+    "overview": "Ashiya has something he needs to talk to his master about in private. Are the demons going back to Ente Isla?!",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 13,
+    "sceneAbsoluteEpisodeNumber": 13,
+    "sceneEpisodeNumber": 13,
+    "sceneSeasonNumber": 1,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/episodes/267441/4587075.jpg"
+      }
+    ],
+    "id": 255
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 8884747,
+    "episodeFileId": 23,
+    "seasonNumber": 2,
+    "episodeNumber": 1,
+    "title": "The Devil Screams in Sasazuka",
+    "airDate": "2022-07-14",
+    "airDateUtc": "2022-07-14T14:30:00Z",
+    "runtime": 24,
+    "overview": "Maou and company face their usual budget crisis while Emi and Suzuno attempt to have a conversation next door. It's the same old, same old... except that today, they sense an ominous presence. Before long, a bloodcurdling scream will rend the night.",
+    "hasFile": true,
+    "monitored": true,
+    "absoluteEpisodeNumber": 14,
+    "sceneAbsoluteEpisodeNumber": 14,
+    "sceneEpisodeNumber": 1,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/8884747/screencap/62c94928b91d8.jpg"
+      }
+    ],
+    "id": 256
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250297,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 2,
+    "title": "The Devil and the Hero Inconceivably Become Parents",
+    "airDate": "2022-07-21",
+    "airDateUtc": "2022-07-21T14:30:00Z",
+    "runtime": 24,
+    "overview": "Alas Ramus seems dead set on the idea that Maou and Emi are her parents. After a few attempts at babysitting by Maou and Ashiya, though, it's clear that Chiho is the only one ready to cope with the realities of parenting. Her boss at MgRonald's isn't thrilled about all of this, but Chiho may have a future in the Devil's army...",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 15,
+    "sceneAbsoluteEpisodeNumber": 15,
+    "sceneEpisodeNumber": 2,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250297/screencap/62d2c6f1ceb72.jpg"
+      }
+    ],
+    "id": 257
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250298,
+    "episodeFileId": 25,
+    "seasonNumber": 2,
+    "episodeNumber": 3,
+    "title": "The Devil and the Hero Go to the Amusement Park as Advised",
+    "airDate": "2022-07-28",
+    "airDateUtc": "2022-07-28T14:30:00Z",
+    "runtime": 24,
+    "overview": "Maou, Emi, and Alas Ramus have an eventful day at the amusement park. Meanwhile, their three stalkers do their not-so-great best to blend in.",
+    "hasFile": true,
+    "monitored": true,
+    "absoluteEpisodeNumber": 16,
+    "sceneAbsoluteEpisodeNumber": 16,
+    "sceneEpisodeNumber": 3,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250298/screencap/62e29ecff1a2d.jpg"
+      }
+    ],
+    "id": 258
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250300,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 4,
+    "title": "The Devil Learns the Pain of Losing Something Precious",
+    "airDate": "2022-08-04",
+    "airDateUtc": "2022-08-04T14:30:00Z",
+    "runtime": 24,
+    "overview": "Emi attends a sleepover at the Devil's Castle. But in the morning, the fight for Alas Ramus and the sacred sword begins. Will Maou and Emi win? Will Gabriel take what's precious? Will there be a magical girl transformation sequence?!",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 17,
+    "sceneAbsoluteEpisodeNumber": 17,
+    "sceneEpisodeNumber": 4,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250300/screencap/62ebcebe6784d.jpg"
+      }
+    ],
+    "id": 259
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250301,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 5,
+    "title": "The Devil Is at Sea After Losing His Home and His Job",
+    "airDate": "2022-08-11",
+    "airDateUtc": "2022-08-11T14:30:00Z",
+    "runtime": 24,
+    "overview": "Alas Ramus may be safe, but Maou and his roommates have a few more crises to face. Luckily, they have strong allies on their side.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 18,
+    "sceneAbsoluteEpisodeNumber": 18,
+    "sceneEpisodeNumber": 5,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250301/screencap/62f52242d6354.jpg"
+      }
+    ],
+    "id": 260
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250302,
+    "episodeFileId": 27,
+    "seasonNumber": 2,
+    "episodeNumber": 6,
+    "title": "The Hero Helps the Devil Reequip His Workplace",
+    "airDate": "2022-08-18",
+    "airDateUtc": "2022-08-18T14:30:00Z",
+    "runtime": 24,
+    "overview": "With Ohguro's new and improved look, business is booming! In fact, there are more customers than Maou and his team can handle alone. And at night, there are ominous shadows in the fog...",
+    "hasFile": true,
+    "monitored": true,
+    "absoluteEpisodeNumber": 19,
+    "sceneAbsoluteEpisodeNumber": 19,
+    "sceneEpisodeNumber": 6,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250302/screencap/62fe5aee366ad.jpg"
+      }
+    ],
+    "id": 261
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250303,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 7,
+    "title": "The Devil Learns That Choshi (and the World) Are Bigger Than He Knew",
+    "airDate": "2022-08-25",
+    "airDateUtc": "2022-08-25T14:30:00Z",
+    "runtime": 24,
+    "overview": "Emi, Maou, and the gang learn the source of the recent demon invasion, as well as some surprising facts about Choshi City and their boss.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 20,
+    "sceneAbsoluteEpisodeNumber": 20,
+    "sceneEpisodeNumber": 7,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250303/screencap/630788d1791a0.jpg"
+      }
+    ],
+    "id": 262
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250304,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 8,
+    "title": "The Devil Begins Farming",
+    "airDate": "2022-09-01",
+    "airDateUtc": "2022-09-01T14:30:00Z",
+    "runtime": 24,
+    "overview": "Maou, Ashiya, and Urushihara get a farming job on Chiho's recommendation. Emi seems to have some feelings about it.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 21,
+    "sceneAbsoluteEpisodeNumber": 21,
+    "sceneEpisodeNumber": 8,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250304/screencap/6310cc66a8182.jpg"
+      }
+    ],
+    "id": 263
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250305,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 9,
+    "title": "The Devil and the Hero Rise Up to Defend the Sasakis",
+    "airDate": "2022-09-08",
+    "airDateUtc": "2022-09-08T14:30:00Z",
+    "runtime": 24,
+    "overview": "Thieves and demons and bears, oh my!",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 22,
+    "sceneAbsoluteEpisodeNumber": 22,
+    "sceneEpisodeNumber": 9,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250305/screencap/631a16f34b6bc.jpg"
+      }
+    ],
+    "id": 264
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250306,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 10,
+    "title": "The Devil Adamantly Insists on Buying a TV",
+    "airDate": "2022-09-15",
+    "airDateUtc": "2022-09-15T14:30:00Z",
+    "runtime": 24,
+    "overview": "Maou thirsts for a TV, Emi learns some shocking news, and Urushihara schools us all on how to be proper NEETs.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 23,
+    "sceneAbsoluteEpisodeNumber": 23,
+    "sceneEpisodeNumber": 10,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250306/screencap/632337bbc832e.jpg"
+      }
+    ],
+    "id": 265
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250307,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 11,
+    "title": "The Devil Preaches Human Interaction",
+    "airDate": "2022-09-22",
+    "airDateUtc": "2022-09-22T14:30:00Z",
+    "runtime": 24,
+    "overview": "Buying the Devil's TV is more exciting than anyone expected. Unrelatedly, Maou is wiser about human relationships than anyone expected.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 24,
+    "sceneAbsoluteEpisodeNumber": 24,
+    "sceneEpisodeNumber": 11,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250307/screencap/632c733e9bcb3.jpg"
+      }
+    ],
+    "id": 266
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9250308,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 12,
+    "title": "The Devil and the Hero Focus on What's Happening Right Now",
+    "airDate": "2022-09-29",
+    "airDateUtc": "2022-09-29T14:30:00Z",
+    "runtime": 24,
+    "finaleType": "midseason",
+    "overview": "The whole gang prepares for their showdown with Raguel. But the fight has a lot of unexpected twists and turns, thanks to meddling from more than one immortal.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 25,
+    "sceneAbsoluteEpisodeNumber": 25,
+    "sceneEpisodeNumber": 12,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9250308/screencap/6336a9e5be54e.jpg"
+      }
+    ],
+    "id": 267
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9693228,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 13,
+    "title": "The Devil Returns to the Workplace",
+    "airDate": "2023-07-13",
+    "airDateUtc": "2023-07-13T14:30:00Z",
+    "runtime": 24,
+    "overview": "The Sasazuka MgRonald's remodeling is complete. New toilets! Better coffee machines! Maou and Ashiya's worries would be over, if it weren't for the girls' suspicious new habit.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 26,
+    "sceneAbsoluteEpisodeNumber": 26,
+    "sceneEpisodeNumber": 13,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9693228/screencap/64b0480442a81.jpg"
+      }
+    ],
+    "id": 268
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869959,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 14,
+    "title": "The Devil and the Hero Question Their Daily Routine",
+    "airDate": "2023-07-20",
+    "airDateUtc": "2023-07-20T14:30:00Z",
+    "runtime": 24,
+    "overview": "The battle with Gabriel and Raguel is over, but the transition back into daily life isn't all smooth sailing.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 27,
+    "sceneAbsoluteEpisodeNumber": 27,
+    "sceneEpisodeNumber": 14,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869959/screencap/64b945d3cc907.jpg"
+      }
+    ],
+    "id": 269
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869960,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 15,
+    "title": "The Devil and the Hero Take the First Steps Toward a New Dream",
+    "airDate": "2023-07-27",
+    "airDateUtc": "2023-07-27T14:30:00Z",
+    "runtime": 24,
+    "overview": "Maou has been thinking about dreams ever since his conversation with Kisaki, and he knows exactly what to do next. Of course, whether he can get the necessary parties' buy-in on his dream is another matter...",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 28,
+    "sceneAbsoluteEpisodeNumber": 28,
+    "sceneEpisodeNumber": 15,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869960/screencap/64c37e38a2aae.jpg"
+      }
+    ],
+    "id": 270
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869961,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 16,
+    "title": "The Devil and the Hero Go Futon Shopping",
+    "airDate": "2023-08-03",
+    "airDateUtc": "2023-08-03T14:30:00Z",
+    "runtime": 24,
+    "overview": "Alas Ramus deserves a safe and comfy place to sleep! Emi and Maou go on a futon-shopping quest while Ashiya and Urushihara try to figure out what's going on with Suzuno.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 29,
+    "sceneAbsoluteEpisodeNumber": 29,
+    "sceneEpisodeNumber": 16,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869961/screencap/64cbcd6a6272b.jpg"
+      }
+    ],
+    "id": 271
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869962,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 17,
+    "title": "The Hero Says Goodbye for a Time",
+    "airDate": "2023-08-10",
+    "airDateUtc": "2023-08-10T14:30:00Z",
+    "runtime": 24,
+    "overview": "Emi takes a trip to Ente Isla. Those left behind in Japan spend a lot of time arguing about whether or not they're worried.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 30,
+    "sceneAbsoluteEpisodeNumber": 30,
+    "sceneEpisodeNumber": 17,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869962/screencap/64d4f75fb0319.jpg"
+      }
+    ],
+    "id": 272
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869963,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 18,
+    "title": "The Devil Gets Off to a Late Start",
+    "airDate": "2023-08-17",
+    "airDateUtc": "2023-08-17T14:30:00Z",
+    "runtime": 24,
+    "overview": "Urushihara and Suzuno rush to Chiho's aid, but Maou lags behind thanks to his lack of magic and his confusing new acquaintances. Meanwhile, Ashiya has the toughest job of all: explaining all this to Rika.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 31,
+    "sceneAbsoluteEpisodeNumber": 31,
+    "sceneEpisodeNumber": 18,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869963/screencap/64de2ff6c33cc.jpg"
+      }
+    ],
+    "id": 273
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869964,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 19,
+    "title": "The Hero Weeps",
+    "airDate": "2023-08-24",
+    "airDateUtc": "2023-08-24T14:30:00Z",
+    "runtime": 24,
+    "overview": "Who's holding Emi hostage? Why are so many humans, demons, and angels after Ashiya? Maou needs to find out all this and more, but first he needs a new source of power to defeat the invading army with.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 32,
+    "sceneAbsoluteEpisodeNumber": 32,
+    "sceneEpisodeNumber": 19,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869964/screencap/64e77c83136e8.jpg"
+      }
+    ],
+    "id": 274
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869965,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 20,
+    "title": "The Hero Questions Her Hometown",
+    "airDate": "2023-08-31",
+    "airDateUtc": "2023-08-31T14:30:00Z",
+    "runtime": 24,
+    "overview": "Emi is freshly struck by all the differences between Ente Isla and Japan. Then Alas Ramus reveals more about herself, causing Emi to reevaluate several things. Meanwhile, Maou is just trying to coexist with Acieth Alla without losing his mind.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 33,
+    "sceneAbsoluteEpisodeNumber": 33,
+    "sceneEpisodeNumber": 20,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869965/screencap/64f103c1569c3.jpg"
+      }
+    ],
+    "id": 275
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869966,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 21,
+    "title": "The Devil Vomits",
+    "airDate": "2023-09-07",
+    "airDateUtc": "2023-09-07T14:30:00Z",
+    "runtime": 24,
+    "overview": "Maou and Suzuno make their way through Ente Isla's forests. Emi and Ashiya each learn what they've been brought to Efzahan for.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 34,
+    "sceneAbsoluteEpisodeNumber": 34,
+    "sceneEpisodeNumber": 21,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869966/screencap/64f9ed7dd38f1.jpg"
+      }
+    ],
+    "id": 276
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869967,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 22,
+    "title": "The Devil Loses His Standing",
+    "airDate": "2023-09-14",
+    "airDateUtc": "2023-09-14T14:30:00Z",
+    "runtime": 24,
+    "overview": "Are we about to finally learn the landlady's secret?! Also, Ashiya takes control of the Malebranche while Maou struggles with his magic and Emi struggles with the stress of her position.",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 35,
+    "sceneAbsoluteEpisodeNumber": 35,
+    "sceneEpisodeNumber": 22,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869967/screencap/6503ba41f3ee0.jpg"
+      }
+    ],
+    "id": 277
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869968,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 23,
+    "title": "The Hero Dances on the Battlefield",
+    "airDate": "2023-09-21",
+    "airDateUtc": "2023-09-21T14:30:00Z",
+    "runtime": 24,
+    "overview": "Suzuno and Albert's plan hits a snag, but Emi and Ashiya's plans are going oddly well. The big questions of the day are: Can Maou merge with Acieth again? And does he have enough gas left in Powered Dullahan III?",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 36,
+    "sceneAbsoluteEpisodeNumber": 36,
+    "sceneEpisodeNumber": 23,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869968/screencap/650c5539c0fba.jpg"
+      }
+    ],
+    "id": 278
+  },
+  {
+    "seriesId": 6,
+    "tvdbId": 9869969,
+    "episodeFileId": 0,
+    "seasonNumber": 2,
+    "episodeNumber": 24,
+    "title": "The Devil and the Hero Witness Change in Ente Isla",
+    "airDate": "2023-09-28",
+    "airDateUtc": "2023-09-28T14:30:00Z",
+    "runtime": 24,
+    "finaleType": "series",
+    "overview": "At last, all the players are in place for the final battle in Efzahan. What happens next?",
+    "hasFile": false,
+    "monitored": true,
+    "absoluteEpisodeNumber": 37,
+    "sceneAbsoluteEpisodeNumber": 37,
+    "sceneEpisodeNumber": 24,
+    "sceneSeasonNumber": 2,
+    "unverifiedSceneNumbering": false,
+    "images": [
+      {
+        "coverType": "screenshot",
+        "remoteUrl": "https://artworks.thetvdb.com/banners/v4/episode/9869969/screencap/65192d979d694.jpg"
+      }
+    ],
+    "id": 279
+  }
+]

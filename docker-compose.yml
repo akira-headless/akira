@@ -1,0 +1,35 @@
+name: akira
+
+services:
+  akira:
+    container_name: akira
+    image: akira-server
+    build:
+      context: .
+      dockerfile: Akira.Server/Dockerfile
+      args:
+        BUILD_CONFIGURATION: ${BUILD_CONFIGURATION:-Release}
+        GPU_DRIVERS: ${GPU_DRIVERS:-}
+    environment:
+      - ASPNETCORE_ENVIRONMENT=${ASPNETCORE_ENVIRONMENT:-Production}
+      - Playback__Languages__Subtitles=${SUBTITLE_LANGUAGES:-}
+      - Playback__Languages__Audio=${AUDIO_LANGUAGES:-}
+      - Playback__Languages__SubtitleMode=${SUBTITLE_MODE:-}
+      - Transcoding__HardwareAcceleration=${HARDWARE_ACCELERATION:-None}
+      - Transcoding__ToneMapping=${TONE_MAPPING:-Cpu}
+      - Transcoding__TempPath=/app/transcodes
+      - Trakt__ClientId=${TRAKT_CLIENT_ID:-}
+      - Trakt__ClientSecret=${TRAKT_CLIENT_SECRET:-}
+      - Subtitles__OpenSubtitles__ApiKey=${OPENSUBTITLES_API_KEY}
+      - Subtitles__OpenSubtitles__Username=${OPENSUBTITLES_USERNAME}
+      - Subtitles__OpenSubtitles__Password=${OPENSUBTITLES_PASSWORD}
+    ports:
+      - "8484:8080"
+    volumes:
+      - akira_config:/app/config
+      - akira_transcodes:/app/transcodes
+    restart: unless-stopped
+
+volumes:
+  akira_config:
+  akira_transcodes:

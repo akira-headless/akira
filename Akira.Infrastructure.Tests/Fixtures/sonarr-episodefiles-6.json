@@ -1,0 +1,155 @@
+[
+  {
+    "seriesId": 6,
+    "seasonNumber": 2,
+    "relativePath": "The Devil Is a Part-Timer! (2013) - S02E01 - The Devil Screams in Sasazuka [HDTV-1080p][AAC 2.0][x264]-SubsPlease.mp4",
+    "path": "/anime/The Devil Is a Part-Timer/The Devil Is a Part-Timer! (2013) - S02E01 - The Devil Screams in Sasazuka [HDTV-1080p][AAC 2.0][x264]-SubsPlease.mp4",
+    "size": 13727629,
+    "dateAdded": "2026-05-15T09:38:17Z",
+    "releaseGroup": "SubsPlease",
+    "languages": [
+      {
+        "id": 8,
+        "name": "Japanese"
+      }
+    ],
+    "quality": {
+      "quality": {
+        "id": 4,
+        "name": "HDTV-720p",
+        "source": "television",
+        "resolution": 720
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "indexerFlags": 0,
+    "releaseType": "singleEpisode",
+    "mediaInfo": {
+      "audioBitrate": 154359,
+      "audioChannels": 2,
+      "audioCodec": "AAC",
+      "audioLanguages": "und",
+      "audioStreamCount": 1,
+      "videoBitDepth": 8,
+      "videoBitrate": 2289327,
+      "videoCodec": "h265",
+      "videoFps": 60,
+      "videoDynamicRange": "",
+      "videoDynamicRangeType": "",
+      "resolution": "1280x720",
+      "runTime": "0:44",
+      "scanType": "Progressive",
+      "subtitles": ""
+    },
+    "qualityCutoffNotMet": false,
+    "id": 23
+  },
+  {
+    "seriesId": 6,
+    "seasonNumber": 2,
+    "relativePath": "The Devil Is a Part-Timer! (2013) - S02E03 - The Devil and the Hero Go to the Amusement Park as Advised [v2 HDTV-1080p Proper][AAC 2.0][x264]-SubsPlease.mp4",
+    "path": "/anime/The Devil Is a Part-Timer/The Devil Is a Part-Timer! (2013) - S02E03 - The Devil and the Hero Go to the Amusement Park as Advised [v2 HDTV-1080p Proper][AAC 2.0][x264]-SubsPlease.mp4",
+    "size": 13727629,
+    "dateAdded": "2026-05-15T09:38:17Z",
+    "releaseGroup": "SubsPlease",
+    "languages": [
+      {
+        "id": 8,
+        "name": "Japanese"
+      }
+    ],
+    "quality": {
+      "quality": {
+        "id": 4,
+        "name": "HDTV-720p",
+        "source": "television",
+        "resolution": 720
+      },
+      "revision": {
+        "version": 2,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "indexerFlags": 0,
+    "releaseType": "singleEpisode",
+    "mediaInfo": {
+      "audioBitrate": 154359,
+      "audioChannels": 2,
+      "audioCodec": "AAC",
+      "audioLanguages": "und",
+      "audioStreamCount": 1,
+      "videoBitDepth": 8,
+      "videoBitrate": 2289327,
+      "videoCodec": "h265",
+      "videoFps": 60,
+      "videoDynamicRange": "",
+      "videoDynamicRangeType": "",
+      "resolution": "1280x720",
+      "runTime": "0:44",
+      "scanType": "Progressive",
+      "subtitles": ""
+    },
+    "qualityCutoffNotMet": false,
+    "id": 25
+  },
+  {
+    "seriesId": 6,
+    "seasonNumber": 2,
+    "relativePath": "The Devil Is a Part-Timer! (2013) - S02E06 - The Hero Helps the Devil Reequip His Workplace [v2 HDTV-1080p Proper][AAC 2.0][x264]-SubsPlease.mp4",
+    "path": "/anime/The Devil Is a Part-Timer/The Devil Is a Part-Timer! (2013) - S02E06 - The Hero Helps the Devil Reequip His Workplace [v2 HDTV-1080p Proper][AAC 2.0][x264]-SubsPlease.mp4",
+    "size": 13727629,
+    "dateAdded": "2026-05-15T09:38:17Z",
+    "releaseGroup": "SubsPlease",
+    "languages": [
+      {
+        "id": 8,
+        "name": "Japanese"
+      }
+    ],
+    "quality": {
+      "quality": {
+        "id": 4,
+        "name": "HDTV-720p",
+        "source": "television",
+        "resolution": 720
+      },
+      "revision": {
+        "version": 2,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "indexerFlags": 0,
+    "releaseType": "singleEpisode",
+    "mediaInfo": {
+      "audioBitrate": 154359,
+      "audioChannels": 2,
+      "audioCodec": "AAC",
+      "audioLanguages": "und",
+      "audioStreamCount": 1,
+      "videoBitDepth": 8,
+      "videoBitrate": 2289327,
+      "videoCodec": "h265",
+      "videoFps": 60,
+      "videoDynamicRange": "",
+      "videoDynamicRangeType": "",
+      "resolution": "1280x720",
+      "runTime": "0:44",
+      "scanType": "Progressive",
+      "subtitles": ""
+    },
+    "qualityCutoffNotMet": false,
+    "id": 27
+  }
+]

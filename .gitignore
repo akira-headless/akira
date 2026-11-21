@@ -1,0 +1,44 @@
+*.swp
+*.*~
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+.vs/
+.fleet/
+*.suo
+*.user
+*.userosscache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+
+# Logs
+*.log
+
+# Local database
+*.db
+*.db-shm
+*.db-wal
+Akira.Server/config/
+
+# Environment
+.env
+.env.local
+
+# Dev runs
+dev-admin-key.txt
+dev-server.log
+dev-server.log.err
+
+# Web UI: packages, and the build the server serves
+Akira.Client/node_modules/
+Akira.Server/wwwroot/

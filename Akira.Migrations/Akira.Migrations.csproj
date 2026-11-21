@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="FluentMigrator" />
+        <PackageReference Include="FluentMigrator.Runner.Core" />
+        <PackageReference Include="FluentMigrator.Runner.MySql" />
+        <PackageReference Include="FluentMigrator.Runner.SQLite" />
+        <PackageReference Include="Microsoft.Data.Sqlite" />
+        <PackageReference Include="MySqlConnector" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Akira.Infrastructure\Akira.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

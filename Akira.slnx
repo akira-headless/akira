@@ -1,0 +1,29 @@
+<Solution>
+  <Folder Name="/Akira.Root/">
+    <File Path=".dockerignore" />
+    <File Path=".gitignore" />
+    <File Path="CLAUDE.md" />
+    <File Path="Directory.Packages.props" />
+    <File Path="docker-compose.yml" />
+    <File Path="docker-compose.mariadb.yml" />
+    <File Path="global.json" />
+  </Folder>
+  <Folder Name="/Akira.Root/.githooks/">
+    <File Path=".githooks/pre-commit" />
+  </Folder>
+  <Folder Name="/Akira.Root/.github/workflows/">
+    <File Path=".github/workflows/ci.yml" />
+  </Folder>
+  <Project Path="Akira.Server.Testing/Akira.Server.Testing.csproj" />
+  <Project Path="Akira.Application/Akira.Application.csproj" />
+  <Project Path="Akira.Contracts/Akira.Contracts.csproj" />
+  <Project Path="Akira.Core.Tests/Akira.Core.Tests.csproj" />
+  <Project Path="Akira.Core/Akira.Core.csproj" />
+  <Project Path="Akira.Infrastructure.Tests/Akira.Infrastructure.Tests.csproj" />
+  <Project Path="Akira.Infrastructure/Akira.Infrastructure.csproj" />
+  <Project Path="Akira.Migrations.Tests/Akira.Migrations.Tests.csproj" />
+  <Project Path="Akira.Migrations/Akira.Migrations.csproj" />
+  <Project Path="Akira.Server.Tests/Akira.Server.Tests.csproj" />
+  <Project Path="Akira.Server/Akira.Server.csproj" />
+  <Project Path="Akira.Testing/Akira.Testing.csproj" />
+</Solution>
