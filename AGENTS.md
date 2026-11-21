@@ -210,4 +210,4 @@ Sparse on purpose. Load the `rowan-comment-style` skill before writing any comme
 - Portainer: `../tools/build-images.ps1` into `../out/akira-images.tar`, import it, paste `docker-compose.portainer.yml`; steps, variables and ports in README.md.
 - Watch state from Jellyfin: `python ../tools/import-jellyfin.py --jellyfin <url> --jellyfin-user <name> --akira <url> --dry-run` with `JELLYFIN_API_KEY` and `AKIRA_API_KEY` set.
 - CI (`.github/workflows/ci.yml`, GitHub Actions): unit tests, MariaDB integration tests, the admin UI build, the guide build and a Docker image build.
-- Release: a tag `vX.Y.Z` runs `release.yml`, which publishes `ghcr.io/akira-headless/akira-server` (amd64 and arm64, every GPU driver) and a GitHub release. `pages.yml` puts the guide on GitHub Pages on every push to `main` that changes `Akira.Docs`; the build reads its base path from `DOCS_BASE`.
+- Release: a tag `vX.Y.Z` runs `release.yml`, which publishes `ghcr.io/akira-headless/akira` (amd64 and arm64, every GPU driver) and a GitHub release. `pages.yml` puts the guide on GitHub Pages on every push to `main` that changes `Akira.Docs`; the build reads its base path from `DOCS_BASE`.

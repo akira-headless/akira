@@ -30,7 +30,7 @@ After a pull, the container keeps its image until you recreate it. Compare the t
 
 ```bash
 docker inspect akira --format '{{.Image}}'
-docker images akira-server
+docker images ghcr.io/akira-headless/akira
 ```
 
 If they differ, run `docker compose up -d`.

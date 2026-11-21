@@ -29,7 +29,7 @@ Follow the [installation guide](https://akira-headless.github.io/akira/getting-s
 | `latest` | Latest stable release | `amd64` `arm64` |
 | `1.2.3` | Specific version | `amd64` `arm64` |
 
-The image is `ghcr.io/akira-headless/akira-server` and has the GPU drivers for Intel, AMD and NVIDIA, the Intel ones on `amd64` only.
+The image is `ghcr.io/akira-headless/akira` and has the GPU drivers for Intel, AMD and NVIDIA, the Intel ones on `amd64` only.
 
 ## Setting up Akira
 
@@ -38,7 +38,7 @@ Akira uses SQLite by default, MariaDB is supported as well. The host network is 
 ```yaml
 services:
   akira:
-    image: ghcr.io/akira-headless/akira-server:latest
+    image: ghcr.io/akira-headless/akira:latest
     container_name: akira
     restart: unless-stopped
     ports:
@@ -94,7 +94,7 @@ docker run -d \
   -e Arr__Instances__0__ApiKey=your-radarr-api-key \
   -v akira_config:/app/config \
   -v /path/to/media/movies:/movies \
-  ghcr.io/akira-headless/akira-server:latest
+  ghcr.io/akira-headless/akira:latest
 ```
 
 ### Akira environment variables

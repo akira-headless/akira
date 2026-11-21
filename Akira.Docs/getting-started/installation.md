@@ -14,7 +14,7 @@ The image is in the GitHub Container Registry:
 
 | Image | Description |
 |-------|-------------|
-| `ghcr.io/akira-headless/akira-server` | The server, with the admin page on the same port |
+| `ghcr.io/akira-headless/akira` | The server, with the admin page on the same port |
 
 | Tag | Description |
 |-----|-------------|
@@ -30,7 +30,7 @@ Akira answers on port `8484`. The host network is optional: use it only when DLN
 ```yaml
 services:
   akira:
-    image: ghcr.io/akira-headless/akira-server:latest
+    image: ghcr.io/akira-headless/akira:latest
     container_name: akira
     restart: unless-stopped
     ports:
@@ -96,7 +96,7 @@ docker run -d \
   -e Arr__Instances__0__ApiKey=your-radarr-api-key \
   -v akira_config:/app/config \
   -v /path/to/media/movies:/movies \
-  ghcr.io/akira-headless/akira-server:latest
+  ghcr.io/akira-headless/akira:latest
 ```
 
 ## GPU transcoding
