@@ -131,7 +131,7 @@ One migration set runs on SQLite and MariaDB and CI only proves what a test exer
 ### Admin UI
 - `Akira.Client/`: Vue 3.5 `<script setup lang="ts">`, Vite, Tailwind 4, Pinia, vue-router, as Lingarr's client. Shared classes (`panel`, `button`, `input`, `table`) in `style.css`. No test framework yet; `npm run build` type checks first.
 - The API only through `src/services/`. `api.ts` sends `X-Akira-Request` and turns a problem into an `ApiError`; a 401 goes to sign in.
-- API types are generated: `src/types/openapi.ts` comes from the committed copy of the OpenAPI document `src/types/openapi.json` (`npm run api-types`), and `src/types/api.ts` only names them. After an API change, run `../tools/api-types.ps1` against a running server and commit both files; `npm run build` fails while `openapi.ts` does not match `openapi.json`.
+- API types are generated: `src/types/openapi.ts` comes from the committed copy of the OpenAPI document `src/types/openapi.json` (`npm run api-types`), and `src/types/api.ts` only names them. `npm run build` fails while `openapi.ts` does not match `openapi.json`.
 - A browser signs in with `POST /api/v1/auth/browser-session` and then holds only an HttpOnly, SameSite=Strict `akira_session` cookie. The handler reads it only without a header credential, refuses it from another `Origin`, and refuses a change without `X-Akira-Request`.
 - The server serves `wwwroot` and answers every path outside `/api`, `/openapi` and `/scalar` without an extension with `index.html` (`WebUiRoute`), so an unknown API path stays a 404.
 - Admin-only pages carry `meta.admin`; the server checks the policy anyway.
@@ -194,7 +194,7 @@ One migration set runs on SQLite and MariaDB and CI only proves what a test exer
 - The pre-commit hook runs the unit tests (`git config core.hooksPath .githooks`).
 
 ### Branding
-- The mark (a rounded A with a play button cut out, `#3d8bf7` on `#13171d`) is geometry in `../tools/make_icons.py`, which writes it into `Akira.Docs/public` and `Akira.Client/public`. Change it there and run the script; never edit the generated images. New sizes are added to the script.
+- The mark (a rounded A with a play button cut out, `#3d8bf7` on `#13171d`) in `Akira.Docs/public` and `Akira.Client/public` is generated; never edit those images.
 
 ### Comments
 Sparse on purpose. Load the `rowan-comment-style` skill before writing any comment. Every record gets a one-line `<summary>` of what it represents, every public type in `Akira.Contracts` gets one, no XML doc on properties, `<inheritdoc />` on implementations, and a comment only for a non-obvious why. No em dashes anywhere in the repository.
@@ -207,7 +207,5 @@ Sparse on purpose. Load the `rowan-comment-style` skill before writing any comme
 - Admin UI: `cd Akira.Client`, `npm install`, `npm run dev` (port 5173, proxies `/api` to 8484), `npm run build` into `Akira.Server/wwwroot`.
 - Guide: `cd Akira.Docs`, `npm run dev` or `npm run build` (fails on a dead link). A new setting or user facing feature gets its line there, in short Simplified Technical English.
 - Docker: `docker compose up --build`; add `-f docker-compose.mariadb.yml` with `DB_PASSWORD` for MariaDB. For a GPU: `GPU_DRIVERS` in `.env`, `HARDWARE_ACCELERATION` and `TONE_MAPPING`, and the device lines from `Akira.Docs/features/playback.md` in the compose file.
-- Portainer: `../tools/build-images.ps1` into `../out/akira-images.tar`, import it, paste `docker-compose.portainer.yml`; steps, variables and ports in README.md.
-- Watch state from Jellyfin: `python ../tools/import-jellyfin.py --jellyfin <url> --jellyfin-user <name> --akira <url> --dry-run` with `JELLYFIN_API_KEY` and `AKIRA_API_KEY` set.
 - CI (`.github/workflows/ci.yml`, GitHub Actions): unit tests, MariaDB integration tests, the admin UI build, the guide build and a Docker image build.
 - Release: a tag `vX.Y.Z` runs `release.yml`, which publishes `ghcr.io/akira-headless/akira` (amd64 and arm64, every GPU driver) and a GitHub release. `pages.yml` puts the guide on GitHub Pages on every push to `main` that changes `Akira.Docs`; the build reads its base path from `DOCS_BASE`.
